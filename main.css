@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form{
+    border: 2px solid black;
+    width: 45%;
+    height: 22vh;
+    margin-top: 20%;
+    margin-left: 30%;
+    text-align: center;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(30,197,235,0.6842131999708851) 100%);
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+
+#form{
+    margin-top: 5%;
+    text-align: center;
+}
+
+input{
+    padding-top: 10px;
+    font-size: 20px;
+    height: 3vh;
+    width: 30%;
+    margin-top: 15px;
+
+}
+
+label{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    margin-top: 20px;
+    font-size: 25px;
+    background-color: rgb(255, 166, 0);
+    border-radius: 20%;
+}
+
+.dialogue{
+   text-align: center;
+   margin-top: 10%;
+   margin-left: 35%;
+   font-size: 35px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   border-bottom: 2px solid black;
+   letter-spacing: 2px;
+   width: 35%;
+   
+}
